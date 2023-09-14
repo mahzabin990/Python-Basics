@@ -1,6 +1,9 @@
 # Python-Basics
 
-My take on python basics. Shout-out to [Shams](https://github.com/s-shifat/) for helping me through out the journey!
+
+This repo contains my day by day records of my progress towards learning Python. 
+
+A big shout-out to [Shams](https://github.com/s-shifat/) for being my unwavering support and guide throughout this incredible journey.
 
 
 * [Day 1](./day_1_Data_Types/README.md)
