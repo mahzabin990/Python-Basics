@@ -1,6 +1,6 @@
 # Python-Basics
 
-My take on python basics.
+My take on python basics. Shout-out to [Shams](https://github.com/s-shifat/) for helping me through out the journey!
 
 
 * [Day 1](./day_1_Data_Types/README.md)
