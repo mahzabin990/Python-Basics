@@ -27,7 +27,7 @@ print(type(-3))
 
 print(round(3.75,1))
 
-# it will print 3.8 as 1 means will keep rounding version to one place
+# it will print 3.8 as 1 means will keep rounding version to first position
 
 
 # comparisons : 
