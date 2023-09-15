@@ -12,3 +12,30 @@ A big shout-out to *[Shams](https://github.com/s-shifat/)* for being my unwaveri
 * [Day 3](./day_3_Python_Datastructures_2-Strings-Numbers-Lists-Tuples-Sets-Dictionaries/README.md)
 
 
+## High Level RoadMap
+
+* Python Basics $\rightarrow$ built-in data structures, logic control, loops, file I/O, functions
+
+  $\downarrow$
+* Python OOP
+  
+  $\downarrow$
+* Some useful modules $\rightarrow$ os, csv, json, pyPDF2, turtle etc.
+  
+  $\downarrow$
+* Numpy
+  
+  $\downarrow$
+* Pandas
+
+  
+  $\downarrow$
+* Matplotlib
+
+  
+  $\downarrow$
+* Scikit-Learn
+
+  
+  $\downarrow$
+* TensorFlow or Pytorch
