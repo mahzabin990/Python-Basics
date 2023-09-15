@@ -20,7 +20,7 @@ Exam: June 13, 2023 → June 13, 2023
 | Watch All the videos                             |
 | Create a feeling for programming                 |
 | Create a feeling for python                      |
-| Write a simple note in the “Notes” section below |
+| Write a simple note in the [Notes](#Notes) section below |
 
 # Resources
 
