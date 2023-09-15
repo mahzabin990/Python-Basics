@@ -40,7 +40,7 @@ Exam: June 13, 2023 → June 13, 2023
 
 ---
 
-**video 00**
+**The creator of python**
 
 I noticed due to long time of complex thinking I noticed that the creator of python has lost control over his forehead muscles.
 
