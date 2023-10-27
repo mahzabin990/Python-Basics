@@ -14,28 +14,78 @@ A big shout-out to *[Shams](https://github.com/s-shifat/)* for being my unwaveri
 
 ## High Level RoadMap
 
-* Python Basics $\rightarrow$ built-in data structures, logic control, loops, file I/O, functions
 
-  $\downarrow$
-* Python OOP
-  
-  $\downarrow$
-* Some useful modules $\rightarrow$ os, csv, json, pyPDF2, turtle etc.
-  
-  $\downarrow$
-* Numpy
-  
-  $\downarrow$
-* Pandas
+$$
+\begin{rcases}
+  \text{Built-in data structures}, &\\ 
+  \text{logic control}, &\\ 
+  \text{loops}, &\\ 
+  \text{file I/O}, &\\ 
+  \text{functions}, &\\ 
+  \vdots
+\end{rcases} \rightarrow \text{Python Basics}
+$$
 
-  
-  $\downarrow$
-* Matplotlib
+$$
+\downarrow \\ 
+$$
 
-  
-  $\downarrow$
-* Scikit-Learn
+$$
+\text{Python OOP} \\ 
+$$
 
-  
-  $\downarrow$
-* TensorFlow or Pytorch
+$$
+\downarrow \\ 
+$$
+
+$$
+\text{Some useful modules } \leftarrow 
+\begin{cases}
+  \text{ os},& \\ 
+  \text{ csv},& \\ 
+  \text{ json},& \\ 
+  \text{ pyPDF2},& \\ 
+  \text{ turtle},& \\
+  \vdots
+\end{cases} \\
+$$
+
+$$
+\downarrow \\ 
+$$
+
+$$
+\text{\textit{Numpy}}  \\
+$$
+
+$$
+\downarrow \\ 
+$$
+
+$$
+\text{\textit{Pandas}} \\ 
+$$
+
+$$
+\downarrow \\ 
+$$
+
+$$
+\text{\textit{Matplotlib}}  \\ 
+$$
+
+$$
+\downarrow \\ 
+$$
+
+$$
+\text{\textit{Scikit-Learn}}  \\ 
+$$
+
+$$
+\downarrow \\ 
+$$
+
+$$
+\text{\textit{TensorFlow or Pytorch}}
+$$
